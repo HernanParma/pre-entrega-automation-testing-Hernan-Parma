@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+reports/
+allure-results/
+allure-report/
+htmlcov/
+coverage.xml
+*.log
+screenshots/
